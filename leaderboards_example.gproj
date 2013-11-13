@@ -5,10 +5,10 @@
  <file source="main.lua"/>
  <folder name="sources">
   <folder name="libs">
+   <file source="sources/libs/json.lua"/>
    <file source="sources/libs/base64.lua"/>
    <file source="sources/libs/socket.lua"/>
   </folder>
-  <file source="sources/json.lua"/>
   <file source="sources/remote_records.lua"/>
   <file source="sources/crypt.lua"/>
  </folder>
