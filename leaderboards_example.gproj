@@ -1,0 +1,15 @@
+<project>
+ <properties autorotation="0" encrypt="0" fps="60" scaleMode="0" mouseToTouch="1" iosDevice="0" packageName="com.yourdomain.yourapp" logicalHeight="480" logicalWidth="320" mouseTouchOrder="0" retinaDisplay="0" touchToMouse="1" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales/>
+ </properties>
+ <file source="main.lua"/>
+ <folder name="sources">
+  <folder name="libs">
+   <file source="sources/libs/base64.lua"/>
+   <file source="sources/libs/socket.lua"/>
+  </folder>
+  <file source="sources/json.lua"/>
+  <file source="sources/remote_records.lua"/>
+  <file source="sources/crypt.lua"/>
+ </folder>
+</project>
